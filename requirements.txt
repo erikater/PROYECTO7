@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 pandas
 plotly_express
 streamlit
-=======
- pandas
- plotly_express
- streamlit
->>>>>>> 229d64f57cf4053f3d3f08db032793277ae60eff
+
